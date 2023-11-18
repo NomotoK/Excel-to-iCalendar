@@ -1,0 +1,122 @@
+[
+    {
+        "ClassName": "COMP305 ­ Biocomputation [ON CAMPUS LECTURE]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 1.0,
+        "ClassTimeId": 1.0,
+        "Classroom": "Electrical Engineering, Lecture Theatre, room 101",
+        "Teacher": "Dr Chao Huang"
+    },
+    {
+        "ClassName": "COMP336+529 - Big Data Analytics [ON CAMPUS TUTORIAL]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 1.0,
+        "ClassTimeId": 5.0,
+        "Classroom": "Brodie Tower, Room 302",
+        "Teacher": ""
+    },
+    {
+        "ClassName": "COMP338 - Computer Vision [ON CAMPUS LAB]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 1.0,
+        "ClassTimeId": 7.0,
+        "Classroom": "George Holt Building, Teaching Laboratory 2, H1.16/1.17",
+        "Teacher": "Dr Guangliang Cheng"
+    },
+    {
+        "ClassName": "COMP336+529 - Big Data Analytics [ON CAMPUS LECTURE]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 2.0,
+        "ClassTimeId": 5.0,
+        "Classroom": "Electrical Engineering, Lecture Theatre, room 101",
+        "Teacher": "Dr Dominik Wojtczak"
+    },
+    {
+        "ClassName": "COMP336+529 - Big Data Analytics [ON CAMPUS LECTURE]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 2.0,
+        "ClassTimeId": 6.0,
+        "Classroom": "Electrical Engineering, Lecture Theatre, room 101",
+        "Teacher": "Dr Dominik Wojtczak"
+    },
+    {
+        "ClassName": "COMP305 - Biocomputation [ON CAMPUS TUTORIAL]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 3.0,
+        "ClassTimeId": 3.0,
+        "Classroom": "Electrical Engineering, Lecture Room E4",
+        "Teacher": ""
+    },
+    {
+        "ClassName": "COMP338 - Computer Vision [ON CAMPUS LECTURE]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 4.0,
+        "ClassTimeId": 2.0,
+        "Classroom": "South Campus Teaching Hub Lecture Theatre 4",
+        "Teacher": "Dr Guangliang Cheng"
+    },
+    {
+        "ClassName": "COMP338 - Computer Vision [ON CAMPUS LECTURE]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 4.0,
+        "ClassTimeId": 3.0,
+        "Classroom": "South Campus Teaching Hub Lecture Theatre 4",
+        "Teacher": "Dr Guangliang Cheng"
+    },
+    {
+        "ClassName": "COMP305 - Biocomputation [ON CAMPUS LECTURE]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 5.0,
+        "ClassTimeId": 1.0,
+        "Classroom": "Thompson Yates Lecture Theatre, Room 104",
+        "Teacher": "Dr Chao Huang"
+    },
+    {
+        "ClassName": "COMP305 - Biocomputation [ON CAMPUS LECTURE]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 5.0,
+        "ClassTimeId": 2.0,
+        "Classroom": "Thompson Yates Lecture Theatre, Room 104",
+        "Teacher": "Dr Chao Huang"
+    },
+    {
+        "ClassName": "COMP338 - Computer Vision [ON CAMPUS LECTURE]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 5.0,
+        "ClassTimeId": 3.0,
+        "Classroom": "Chadwick Building, Muspratt lecture theatre",
+        "Teacher": "Dr Guangliang Cheng"
+    },
+    {
+        "ClassName": "COMP336+529 - Big Data Analytics [ON CAMPUS LAB]",
+        "StartWeek": 1.0,
+        "EndWeek": 12.0,
+        "WeekStatus": 0.0,
+        "Weekday": 5.0,
+        "ClassTimeId": 7.0,
+        "Classroom": "George Holt Building, Teaching Laboratory 2, H1.16/1.17",
+        "Teacher": ""
+    }
+]

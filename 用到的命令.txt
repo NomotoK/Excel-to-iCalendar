@@ -1,0 +1,6 @@
+安装Python环境
+pip install uuid xlrd==1.2.0
+运行脚本
+python main.py
+搭建文件服务器
+python -m http.server 8000
