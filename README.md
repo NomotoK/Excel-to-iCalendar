@@ -24,6 +24,7 @@ python3 main.py
 ```
 
 测试环境为：Python 3.7.2，Windows 10 x64.
+- 更新：Python3.9, Windows 10 x64.可用。
 
 ## 文件中格式解释
 
